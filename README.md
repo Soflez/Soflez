@@ -1,5 +1,5 @@
 ### 👋
-### Universidad ECCI. Systems Engineer.
+### ECCI University. Systems Engineer.
 ### Business Insights.  QA Analyst.  Software Developer.
 <!--
 **Soflez/Soflez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
